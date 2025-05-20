@@ -1,2 +1,2 @@
 # Quantum-Network-Policies
-Optimization and benchmarking of entanglement distribution, error correction and distillation policies for quantum networks
+Optimization and benchmarking of entanglement distribution, error correction and distillation policies for terrestrial and and satellite assisted quantum networks.
